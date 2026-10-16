@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How to Convert Coordinates to Address with Map Kit and Handle Map Cluster Events
 This sample (`how-to-convert-address-and-cluster`) demonstrates how to integrate **Map Kit** to convert a coordinate into a readable address (reverse geocoding) and how to handle map and cluster events on a wearable device.
